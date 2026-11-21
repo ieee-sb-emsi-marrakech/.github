@@ -34,9 +34,9 @@ We focus on **technology, collaboration, and hands-on learning** through real-wo
 
 We welcome **students, mentors, and tech enthusiasts** to join and contribute.
 
-📧 Contact us: [studentbranchiee@gmail.com](mailto:studentbranchiee@gmail.com)  
-📸 Follow us on Instagram: [@ieee.emsi.marrakech](https://instagram.com/ieee.emsi.marrakech)  
-💼 Connect on LinkedIn: [in/ieeestudentbranchemsimarrakech](https://www.linkedin.com/in/ieeestudentbranchemsimarrakech/)  
+📧 Contact us: [studentbranchiee@gmail.com](mailto:ieee.sb.emsi.marrakech@gmail.com)  
+📸 Follow us on Instagram: [@ieee.emsi.marrakech](https://instagram.com/ieee.sb.emsi.marrakech)  
+💼 Connect on LinkedIn: [in/ieeestudentbranchemsimarrakech](https://www.linkedin.com/company/ieee-sb-emsi-marrakech)  
 🌐 Visit our website: [ieee-sb-emsi-marrakesh.vercel.app](https://ieee-sb-emsi-marrakesh.vercel.app/)  
 🌍 Learn more about IEEE: [ieee.org](https://www.ieee.org)  
 
