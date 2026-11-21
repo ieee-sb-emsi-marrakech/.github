@@ -1,36 +1,36 @@
-# ⚡ IEEE Student Branch – EMSI Marrakesh
+# IEEE Student Branch – EMSI Marrakesh
 
 <div align="center">
   <img src="logo.jpg" alt="IEEE S.B EMSI MARRAKESH" width="200" height="200">
   <h1>IEEE S.B EMSI MARRAKESH</h1>
 </div>
 
-## 👥 Who We Are
+## Who We Are
 
 We are the **IEEE Student Branch at EMSI Marrakesh**, a community of passionate **students, engineers, and innovators**.  
 We focus on **technology, collaboration, and hands-on learning** through real-world and open-source projects.
 
 ---
 
-## 🚀 Mission
+## Mission
 
-- 🎯 Develop **technical and leadership skills**  
-- 💡 Promote **innovation and research**  
-- 🤝 Encourage **collaboration and open-source culture**  
-- 🌍 Connect with the global **IEEE network**  
-
----
-
-## 💡 What We Do
-
-- 🧠 Organize **workshops and hackathons**  
-- 💻 Build **technical and open-source projects**  
-- 🤝 Collaborate with **IEEE branches and tech communities**  
-- 🌐 Participate in **IEEE initiatives**  
+- Develop **technical and leadership skills**  
+- Promote **innovation and research**  
+- Encourage **collaboration and open-source culture**  
+- Connect with the global **IEEE network**  
 
 ---
 
-## 🧭 Get Involved
+## What We Do
+
+- Organize **workshops and hackathons**  
+- Build **technical and open-source projects**  
+- Collaborate with **IEEE branches and tech communities**  
+- Participate in **IEEE initiatives**  
+
+---
+
+## Get Involved
 
 We welcome **students, mentors, and tech enthusiasts** to join and contribute.
 
@@ -42,7 +42,7 @@ We welcome **students, mentors, and tech enthusiasts** to join and contribute.
 
 ---
 
-## 🌟 Acknowledgment
+## Acknowledgment
 
 Thanks to all **members, volunteers, and mentors** who contribute to the growth of IEEE at EMSI Marrakesh 💙
 
