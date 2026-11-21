@@ -1,7 +1,7 @@
 # IEEE Student Branch – EMSI Marrakesh
 
 <div align="center">
-  <img src="logo.jpg" alt="IEEE S.B EMSI MARRAKESH" width="200" height="200">
+  <img src="logo.png" alt="IEEE S.B EMSI MARRAKESH" width="200" height="200">
   <h1>IEEE S.B EMSI MARRAKESH</h1>
 </div>
 
